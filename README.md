@@ -1,4 +1,4 @@
-<img src="Screenshot from 2023-09-28 01-37-25.png" alt="">
+<div align="center"> <img src="ezgif-3-ecfaf17896.gif" alt=""> </div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,git,github,vim,bash,vscode" /><br>
