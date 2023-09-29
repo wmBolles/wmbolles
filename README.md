@@ -7,3 +7,8 @@
         <img src="https://skillicons.dev/icons?i=mongodb" />
   </a>
 </p>
+
+```
+OS:  Ubuntu 20.04.6 LTS
+PC:  Acer Predator 17 g9-793
+```
