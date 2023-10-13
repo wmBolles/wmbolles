@@ -11,7 +11,10 @@
 ```
 OS:  Ubuntu 20.04.6 LTS
 PC:  Acer Predator 17 g9-793
+IQ:  122  Superior  Top 6.7%
+SL:  1337 Future is Loading  
 ```
+
 [![GitHub Stars](https://img.shields.io/github/stars/wmbolles?style=social)](https://github.com/wmbolles?tab=stars) <br>
 [![Best Project: MTP](https://img.shields.io/static/v1?label=Best%20Project&message=MTP&color=brightgreen)](https://github.com/wmbolles/MTP?tab=MTP)
 
