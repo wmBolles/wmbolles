@@ -1,3 +1,8 @@
+
+<p align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/wabolles" alt="wabolles's 42 stats" /></a>
+</p>
+
 <div align="center"> <img width="2000" src="wmbolles.gif" alt=""> </div>
 <p align="center">
   <a href="https://skillicons.dev">
